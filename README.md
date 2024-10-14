@@ -2,7 +2,8 @@
 
 ## Project Overview
 This Power BI project provides a comprehensive analysis of a bank's customer base by visualizing key metrics such as balance distribution, customer demographics, and regional breakdowns. The goal is to provide insights that can assist in understanding customer patterns, identifying areas of improvement, and optimizing banking services based on demographic factors.
-https://github.com/qimtaid/Bank-Customer-Analysis/blob/main/Ban%20Customer%20Analysis.png
+
+Screenshot: https://github.com/qimtaid/Bank-Customer-Analysis/blob/main/Ban%20Customer%20Analysis.png
 
 ## Key Metrics and Visualizations
 The following are the main components of the dashboard, highlighting critical aspects of the bank’s customer data:
